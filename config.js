@@ -9,8 +9,8 @@ global.numberowner = '6283816171576'
 global.instagram = 'https://instagram.com'
 global.github = 'https://github.com/Zhal122'
 global.dana = '083816171576'
-global.pulsa = '083816171576
-global.gopay = '083816171576'
+global . pulsa  =  '083816171576'
+global . gopay    =  '083816171576'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ZhaaLLBot'
